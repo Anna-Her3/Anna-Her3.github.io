@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-tiga-hari/static/css/main.5658f35d.css",
+    "main.js": "/project-tiga-hari/static/js/main.f56bc3d6.js",
+    "index.html": "/project-tiga-hari/index.html",
+    "main.5658f35d.css.map": "/project-tiga-hari/static/css/main.5658f35d.css.map",
+    "main.f56bc3d6.js.map": "/project-tiga-hari/static/js/main.f56bc3d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5658f35d.css",
+    "static/js/main.f56bc3d6.js"
+  ]
+}
